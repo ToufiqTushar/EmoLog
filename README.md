@@ -1,7 +1,7 @@
 <div align="center">
   <h1>EmoLog - Your Daily Emotion Tracker 😊</h1>
 </div>
-
+  <h2>📌 Overview</h2>
 <p><strong>EmoLog</strong> is a Java-based diary application that allows users to log their daily experiences while detecting and reflecting their emotional state based on their writing. It combines expressive journaling with emotion analysis and personal security through a login system.</p>
 
 <hr>
@@ -91,7 +91,7 @@ emolog/
   <h2>👨‍💻 Author</h2>
   <p><strong>Taufiq Zahan Tushar</strong><br/>
   🎓 CSE Undergraduate Student<br/>
-  Green University of Bangladesh<br/><br/>
+   Green University of Bangladesh<br/><br/>
   <a href="mailto:toufiqtushar99@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
@@ -103,6 +103,13 @@ emolog/
   </a>
   </p>
 </div>
+
+<div align="center">
+  <h2>📜 License</h2>
+  <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"/>
+  <p>This project is open-source and free to use for personal, educational, and non-commercial purposes.</p>
+</div>
+
 
 
 <hr>
